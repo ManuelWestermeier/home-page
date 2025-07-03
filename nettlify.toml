@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "https://manuel-westermeier.duckdns.org/:splat"
+  to = "https://manuel-westermeier.duckdns.org/"
   status = 301
   force = true
