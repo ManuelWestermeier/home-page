@@ -2,4 +2,4 @@
   from = "/"
   to = "https://manuel-westermeier.duckdns.org/"
   status = 301
-  force = true
+  force = false
